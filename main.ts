@@ -13,5 +13,5 @@ Feil = images.createBigImage(`
     . . # . . . . # . .
     `)
 basic.forever(function () {
-	
+    basic.pause(1000)
 })
